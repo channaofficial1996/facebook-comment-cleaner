@@ -1,3 +1,3 @@
-# FB Comment Bot v13
+# Facebook Comment Cleaner Final
 
-Run `npm install` and `node server.js`
+Instructions to run and deploy on Railway.

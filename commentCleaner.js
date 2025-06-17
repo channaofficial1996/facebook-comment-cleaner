@@ -1,1 +1,1 @@
-// Puppeteer automation would go here
+// Puppeteer automation: login, fetch pages, posts, comments, delete, auto-monitor
