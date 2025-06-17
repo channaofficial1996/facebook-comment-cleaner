@@ -1,1 +1,1 @@
-// JS for auto monitor, select all, delete all logic
+// Auto fetch + Select All/Delete All stub
