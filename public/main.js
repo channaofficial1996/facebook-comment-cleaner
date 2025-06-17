@@ -1,1 +1,1 @@
-// Frontend JS logic
+// JS for auto monitor, select all, delete all logic
