@@ -1,3 +1,2 @@
-# Facebook Comment Cleaner Final
-
-Instructions to run and deploy on Railway.
+# Facebook Comment Cleaner V14
+Run `npm install` + `node server.js`

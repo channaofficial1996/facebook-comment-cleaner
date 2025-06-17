@@ -1,1 +1,1 @@
-{ "name": "fb-comment-cleaner", "version": "1.0.0" }
+{ "name": "fb-comment-bot-v14", "version": "1.0.0", "main": "server.js" }
