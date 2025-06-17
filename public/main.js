@@ -1,1 +1,1 @@
-
+// Frontend JS logic
